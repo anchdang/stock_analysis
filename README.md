@@ -1,5 +1,4 @@
 # stock_analysis
 ## Strategic Portfolio Management: Analyzing Netflix and Apple Stocks
-*Georgia Institute of Technology*
 
 This study explores the predictive power of sentiment analysis on stock price movements, focusing on Netflix and Apple stocks from July 2023 to July 2024. By integrating sentiment data from both traditional media and social media platforms, particularly Reddit, we aim to build a comprehensive predictive model. The study is structured in two stages: first, we perform sentiment analysis using VADER and FinBERT models to classify sentiments from Reddit posts and news articles. Second, we employ machine learning algorithms including LSTM, GRU, GAN, XG Boost, and Random Forest Regressor to predict stock prices based on the sentiment scores. Our findings indicate that while traditional sentiment analysis tools offer valuable insights, they require significant fine-tuning to capture the nuances of investor sentiment, particularly on social media platforms. The study highlights the potential of combining diverse sentiment sources to enhance stock price prediction, providing actionable insights for retail investors.
